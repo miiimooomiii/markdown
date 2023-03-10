@@ -27,5 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a POST to Cloudflare Pages API
-        run: curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/1b1fd908-87ff-4512-8d9e-3e7fc8335727
-"
+        run: curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/1b1fd908-87ff-4512-8d9e-3e7fc8335727"
