@@ -1,5 +1,14 @@
 ---
-title: sample md
+title: サンプルページ
+tags: [sample]
+author: 稲森ミモミ
+publishDate: 2023-03-10
 ---
 
-# サンプル
+## これはサンプルです。
+
+こんにちは。これはAstroとGitHubを用いたサイトにおける、Markdownファイルの管理のためのサンプルです。
+
+単純なCMSとして使用することができます。
+
+## 使用可能なタグ
