@@ -7,7 +7,7 @@ publishDate: 2023-03-10
 
 ## これはサンプルです。編集しないでください。
 
-こんにちは。このリポジトリはAstroとGitHubを用いたサイトにおける、Markdownファイルの管理のためのサンプルです。
+このリポジトリはAstroとGitHubを用いたサイトにおける、Markdownファイルの管理のためのサンプルです。
 
 [こちらのエディタ](https://github.dev/miiimooomiii/markdown)から編集し、単純なCMSとして使用することができます。
 
