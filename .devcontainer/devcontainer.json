@@ -3,5 +3,13 @@
   "containerEnv": {
     "MARKDOWN_TEMPLATE_PATH": "/.templates",
     "MARKDOWN_TEMPLATE_NAME": "template.md"
+  },
+  "customizations": {
+    "codespaces": {
+      "openFiles": [
+        "sample.md",
+        "draft.md"
+      ]
+    }
   }
 }
