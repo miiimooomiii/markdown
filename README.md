@@ -1,5 +1,5 @@
 ---
-title: サンプルページ
+title: サンプル / Read me
 tags: [sample, test, テスト]
 author: 稲森ミモミ
 publishDate: 2023-03-10
@@ -7,7 +7,7 @@ publishDate: 2023-03-10
 
 ## これはサンプルです。編集しないでください。
 
-こんにちは。これはAstroとGitHubを用いたサイトにおける、Markdownファイルの管理のためのサンプルです。
+こんにちは。このリポジトリはAstroとGitHubを用いたサイトにおける、Markdownファイルの管理のためのサンプルです。
 
 [こちらのエディタ](https://github.dev/miiimooomiii/markdown)から編集し、単純なCMSとして使用することができます。
 
