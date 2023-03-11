@@ -9,7 +9,7 @@ publishDate: 2023-03-10
 
 こんにちは。これはAstroとGitHubを用いたサイトにおける、Markdownファイルの管理のためのサンプルです。
 
-[このエディタ](https://github.dev/miiimooomiii/markdown)から編集し、単純なCMSとして使用することができます。
+[こちらのエディタ](https://github.dev/miiimooomiii/markdown)から編集し、単純なCMSとして使用することができます。
 
 ## 使用可能なタグ
 
