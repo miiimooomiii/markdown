@@ -1,0 +1,7 @@
+{
+  "name": "Markdown Container",
+  "containerEnv": {
+    "MARKDOWN_TEMPLATE_PATH": "/.templates",
+    "MARKDOWN_TEMPLATE_NAME": "template.md"
+  }
+}
