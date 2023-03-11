@@ -9,6 +9,11 @@
       "openFiles": [
         "sample.md",
         "draft.md"
+      ],
+      "files.exclude": [
+        "**/.devcontainer",
+        "**/github",
+        "**/templates"
       ]
     }
   }
