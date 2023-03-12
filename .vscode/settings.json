@@ -3,5 +3,6 @@
     "**/.github": true,
     "**/.vscode": true,
     "**/LICENSE": true
-  }
+  },
+  "workbench.statusBar.visible": false
 }
